@@ -71,7 +71,6 @@ src/
 
 ## Screenshots
 
-<!-- screenshot: deck list -->
-<!-- screenshot: study session -->
-<!-- screenshot: study session (answer revealed, grade buttons) -->
-<!-- screenshot: stats dashboard -->
+![Decks dark](docs/screenshots/decks-dark.png)
+
+![Decks light](docs/screenshots/decks-light.png)
